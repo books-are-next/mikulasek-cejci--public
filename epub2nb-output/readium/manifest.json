@@ -1,0 +1,445 @@
+{
+  "@context": "https://readium.org/webpub-manifest/context.jsonld",
+  "metadata": {
+    "@type": "http://schema.org/Book",
+    "title": "Čejčí pláč",
+    "identifier": "urn:uuid:296c0919-9963-415a-a386-6c26c077b931",
+    "author": "Oldřich Mikulášek",
+    "publisher": "Městská knihovna v Praze",
+    "language": "cs-CZ",
+    "modified": "2020-11-03T00:00:00.000Z",
+    "published": "2020-11-02T13:42:25.000Z",
+    "description": "Městská knihovna v Praze",
+    "subject": "subject",
+    "generator": "Adobe InDesign 15.1.1",
+    "Sigil version": "0.9.9"
+  },
+  "readingOrder": [
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/cejci_plac_001.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/cejci_plac_002.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/cejci_plac_003.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/cejci_plac_004.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/cejci_plac_005.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/cejci_plac_006.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/cejci_plac_007.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/cejci_plac_008.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/cejci_plac_009.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/cejci_plac_010.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/cejci_plac_011.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/cejci_plac_012.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/cejci_plac_013.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/cejci_plac_014.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/cejci_plac_015.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/cejci_plac_016.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/cejci_plac_017.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/cejci_plac_018.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/cejci_plac_019.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/cejci_plac_020.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/cejci_plac_021.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/cejci_plac_022.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/cejci_plac_023.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/cejci_plac_024.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/cejci_plac_025.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/cejci_plac_026.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/cejci_plac_027.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/cejci_plac_028.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/cejci_plac_029.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/cejci_plac_030.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/cejci_plac_031.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/cejci_plac_032.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/cejci_plac_033.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/cejci_plac_034.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/cejci_plac_035.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/cejci_plac_036.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/cejci_plac_037.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/cejci_plac_038.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/cejci_plac_039.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/cejci_plac_040.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/cejci_plac_041.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/cejci_plac_042.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/cejci_plac_043.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/cejci_plac_044.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/cejci_plac_045.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/cejci_plac_046.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/cejci_plac_047.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/cejci_plac_048.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/cejci_plac_049.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/cejci_plac_050.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/cejci_plac_051.xhtml"
+    }
+  ],
+  "resources": [
+    {
+      "type": "application/x-dtbncx+xml",
+      "href": "OEBPS/toc.ncx"
+    },
+    {
+      "type": "text/css",
+      "href": "OEBPS/Styles/idGeneratedStyles.css"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/image001.jpg"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/image002.jpg"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/obalka_cejci_plac.jpg"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/upoutavka_eknihy.jpg"
+    }
+  ],
+  "toc": [
+    {
+      "title": "BÁSNĚ JEDNÉ NOCI",
+      "children": [
+        {
+          "title": "Osika",
+          "href": "OEBPS/Text/cejci_plac_006.xhtml#_idParaDest-2"
+        },
+        {
+          "title": "Ptáčkové",
+          "href": "OEBPS/Text/cejci_plac_007.xhtml#_idParaDest-3"
+        },
+        {
+          "title": "My sovy",
+          "href": "OEBPS/Text/cejci_plac_008.xhtml#_idParaDest-4"
+        },
+        {
+          "title": "Naše Indie",
+          "href": "OEBPS/Text/cejci_plac_009.xhtml#_idParaDest-5"
+        },
+        {
+          "title": "Ručičky",
+          "href": "OEBPS/Text/cejci_plac_010.xhtml#_idParaDest-6"
+        },
+        {
+          "title": "Anělina",
+          "href": "OEBPS/Text/cejci_plac_011.xhtml#_idParaDest-7"
+        }
+      ],
+      "href": "OEBPS/Text/cejci_plac_005.xhtml#_idParaDest-1"
+    },
+    {
+      "title": "PLAVUNĚ",
+      "children": [
+        {
+          "title": "Plavuně",
+          "href": "OEBPS/Text/cejci_plac_013.xhtml#_idParaDest-9"
+        },
+        {
+          "title": "Drchnička",
+          "href": "OEBPS/Text/cejci_plac_014.xhtml#_idParaDest-10"
+        },
+        {
+          "title": "Kartouzek",
+          "href": "OEBPS/Text/cejci_plac_015.xhtml#_idParaDest-11"
+        },
+        {
+          "title": "Pampeliška",
+          "href": "OEBPS/Text/cejci_plac_016.xhtml#_idParaDest-12"
+        }
+      ],
+      "href": "OEBPS/Text/cejci_plac_012.xhtml#_idParaDest-8"
+    },
+    {
+      "title": "HRY",
+      "children": [
+        {
+          "title": "Vyzvánění",
+          "href": "OEBPS/Text/cejci_plac_018.xhtml#_idParaDest-14"
+        },
+        {
+          "title": "Verše psané na účtenku",
+          "href": "OEBPS/Text/cejci_plac_019.xhtml#_idParaDest-15"
+        },
+        {
+          "title": "Pití",
+          "href": "OEBPS/Text/cejci_plac_020.xhtml#_idParaDest-16"
+        },
+        {
+          "title": "Divy",
+          "href": "OEBPS/Text/cejci_plac_021.xhtml#_idParaDest-17"
+        },
+        {
+          "title": "Pokusy I",
+          "href": "OEBPS/Text/cejci_plac_022.xhtml#_idParaDest-18"
+        },
+        {
+          "title": "Pokusy II",
+          "href": "OEBPS/Text/cejci_plac_023.xhtml#_idParaDest-19"
+        },
+        {
+          "title": "Pokusy III",
+          "href": "OEBPS/Text/cejci_plac_024.xhtml#_idParaDest-20"
+        },
+        {
+          "title": "Prodavačka květin",
+          "href": "OEBPS/Text/cejci_plac_025.xhtml#_idParaDest-21"
+        },
+        {
+          "title": "Němoty",
+          "href": "OEBPS/Text/cejci_plac_026.xhtml#_idParaDest-22"
+        },
+        {
+          "title": "Vlčina",
+          "href": "OEBPS/Text/cejci_plac_027.xhtml#_idParaDest-23"
+        },
+        {
+          "title": "Jdu se dvěma verši",
+          "href": "OEBPS/Text/cejci_plac_028.xhtml#_idParaDest-24"
+        }
+      ],
+      "href": "OEBPS/Text/cejci_plac_017.xhtml#_idParaDest-13"
+    },
+    {
+      "title": "BÍLÉ NEŠTOVICE",
+      "children": [
+        {
+          "title": "Dopis první ženě",
+          "href": "OEBPS/Text/cejci_plac_030.xhtml#_idParaDest-26"
+        },
+        {
+          "title": "Dopis druhé ženě",
+          "href": "OEBPS/Text/cejci_plac_031.xhtml#_idParaDest-27"
+        },
+        {
+          "title": "Dopis Múze",
+          "href": "OEBPS/Text/cejci_plac_032.xhtml#_idParaDest-28"
+        },
+        {
+          "title": "Kruté něhy",
+          "href": "OEBPS/Text/cejci_plac_033.xhtml#_idParaDest-29"
+        },
+        {
+          "title": "La femme fatal",
+          "href": "OEBPS/Text/cejci_plac_034.xhtml#_idParaDest-30"
+        },
+        {
+          "title": "Bílé neštovice",
+          "href": "OEBPS/Text/cejci_plac_035.xhtml#_idParaDest-31"
+        },
+        {
+          "title": "Pouta",
+          "href": "OEBPS/Text/cejci_plac_036.xhtml#_idParaDest-32"
+        }
+      ],
+      "href": "OEBPS/Text/cejci_plac_029.xhtml#_idParaDest-25"
+    },
+    {
+      "title": "ČEJČÍ PLÁČ",
+      "children": [
+        {
+          "title": "Čejčí pláč",
+          "href": "OEBPS/Text/cejci_plac_038.xhtml#_idParaDest-34"
+        },
+        {
+          "title": "Eloáh",
+          "href": "OEBPS/Text/cejci_plac_039.xhtml#_idParaDest-35"
+        },
+        {
+          "title": "Panu Gauguinovi",
+          "href": "OEBPS/Text/cejci_plac_040.xhtml#_idParaDest-36"
+        },
+        {
+          "title": "Sonet a dva verše navíc pro Oldřicha Vyhlídala",
+          "href": "OEBPS/Text/cejci_plac_041.xhtml#_idParaDest-37"
+        },
+        {
+          "title": "Dávný obraz",
+          "href": "OEBPS/Text/cejci_plac_042.xhtml#_idParaDest-38"
+        },
+        {
+          "title": "Mansardy",
+          "href": "OEBPS/Text/cejci_plac_043.xhtml#_idParaDest-39"
+        },
+        {
+          "title": "Gambie",
+          "href": "OEBPS/Text/cejci_plac_044.xhtml#_idParaDest-40"
+        },
+        {
+          "title": "Osud",
+          "href": "OEBPS/Text/cejci_plac_045.xhtml#_idParaDest-41"
+        },
+        {
+          "title": "Noční ptáci",
+          "href": "OEBPS/Text/cejci_plac_046.xhtml#_idParaDest-42"
+        },
+        {
+          "title": "Bez názvu",
+          "href": "OEBPS/Text/cejci_plac_047.xhtml#_idParaDest-43"
+        },
+        {
+          "title": "Poezie",
+          "href": "OEBPS/Text/cejci_plac_048.xhtml#_idParaDest-44"
+        },
+        {
+          "title": "Tam",
+          "href": "OEBPS/Text/cejci_plac_049.xhtml#_idParaDest-45"
+        },
+        {
+          "title": "Mé dvanáctero",
+          "href": "OEBPS/Text/cejci_plac_050.xhtml#_idParaDest-46"
+        }
+      ],
+      "href": "OEBPS/Text/cejci_plac_037.xhtml#_idParaDest-33"
+    }
+  ]
+}

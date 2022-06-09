@@ -1,51 +1,49 @@
 ---
-title: ''
+title: Panu Gauguinovi
 contentType: prose
 ---
 
-Panu Gauguinovi
+_Kdo jsi?  
+Odkud jdeš?  
+A kam?_
 
-> Kdo jsi?  
-> Odkud jdeš?  
-> A kam?
+_Ticho se slovem kosí.  
+Nedoženeš ale, nikdy nedoženeš  
+rejnoky oceán._
 
-> Ticho se slovem kosí.  
-> Nedoženeš ale, nikdy nedoženeš  
-> rejnoky oceán.
+_Kdo jsi?  
+Odkud jdeš?  
+A kam?_
 
-> Kdo jsi?  
-> Odkud jdeš?  
-> A kam?
+_Žebrák se nedoprosí.  
+Tisíckrát na kost ohryzaná lež  
+zbude jen mošničkám._
 
-> Žebrák se nedoprosí.  
-> Tisíckrát na kost ohryzaná lež  
-> zbude jen mošničkám.
+_Kdo jsi?  
+Odkud jdeš?  
+A kam?_
 
-> Kdo jsi?  
-> Odkud jdeš?  
-> A kam?
+_Smrtelný pot ti čelo zrosí;  
+jediné vláhy se naděješ —  
+a s ní tak suše sám._
 
-> Smrtelný pot ti čelo zrosí;  
-> jediné vláhy se naděješ —  
-> a s ní tak suše sám.
+_Kdo jsi?  
+Odkud jdeš?  
+A kam?_
 
-> Kdo jsi?  
-> Odkud jdeš?  
-> A kam?
+_Zrozený nah, pak bosý  
+v písku svou stopu zavěješ,  
+samumem zavíván._
 
-> Zrozený nah, pak bosý  
-> v písku svou stopu zavěješ,  
-> samumem zavíván.
+_Kdo jsi?  
+Odkud jdeš?  
+A kam?_
 
-> Kdo jsi?  
-> Odkud jdeš?  
-> A kam?
+_Bohy, ty pštrosí,  
+neuzříš,  
+neb poděli se bůhvíkam,  
+jak i ty jednou se poděješ.  
+A to je tvoje říš!_
 
-> Bohy, ty pštrosí,  
-> neuzříš,  
-> neb poděli se bůhvíkam,  
-> jak i ty jednou se poděješ.  
-> A to je tvoje říš!
-
-> A marnost nádherná,  
-> na které hrobaříš.
+_A marnost nádherná,  
+na které hrobaříš._

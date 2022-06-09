@@ -1,38 +1,36 @@
 ---
-title: ''
+title: Plavuně
 contentType: prose
 ---
 
-Plavuně
+_Mám rád tvou kůži  
+i tvou vůni.  
+Je to tak dávno  
+po plavuni,  
+se kterou splývaly tvé vlasy._
 
-> Mám rád tvou kůži  
-> i tvou vůni.  
-> Je to tak dávno  
-> po plavuni,  
-> se kterou splývaly tvé vlasy.
+_Tenkrát se ještě růže  
+podobala růži.  
+A měsíc měsíci  
+jak nová luna novoluní,  
+po čistém nebi  
+třeštící._
 
-> Tenkrát se ještě růže  
-> podobala růži.  
-> A měsíc měsíci  
-> jak nová luna novoluní,  
-> po čistém nebi  
-> třeštící.
+_A verš, verš slova namlouval si._
 
-> A verš, verš slova namlouval si.
+_Teď nevím, ani nebe neví,  
+noc se sebou je v bezvědomí  
+a rozptýlí je teprv  
+po staletích ráno  
+zjitřeným vzduchem, jeho vůní,  
+umdlelým zpěvem slavíci,  
+křik bystřin, tiché trávy, stromy  
+— a žena, jež začla být zas pannou._
 
-> Teď nevím, ani nebe neví,  
-> noc se sebou je v bezvědomí  
-> a rozptýlí je teprv  
-> po staletích ráno  
-> zjitřeným vzduchem, jeho vůní,  
-> umdlelým zpěvem slavíci,  
-> křik bystřin, tiché trávy, stromy  
-> — a žena, jež začla být zas pannou.
+_Je to tak dávno  
+od plavuní,  
+s kterými splývaly tvé vlasy,  
+studené slunce tavící._
 
-> Je to tak dávno  
-> od plavuní,  
-> s kterými splývaly tvé vlasy,  
-> studené slunce tavící.
-
-> A verš, verš znova  
-> slova namlouvá si.
+_A verš, verš znova  
+slova namlouvá si._

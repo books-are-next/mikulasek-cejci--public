@@ -1,28 +1,26 @@
 ---
-title: ''
+title: La femme fatal
 contentType: prose
 ---
 
-La femme fatal
+_Ta není z tohoto světa —  
+a pro vás!_
 
-> Ta není z tohoto světa —  
-> a pro vás!
+_Spřadena ze svitu  
+hvězdy zvané Pelyněk  
+se snoubí  
+s kořenem mandragory,  
+která o půlnoci vzkvétá  
+pod šibenicí  
+z posledního semene oběšencova._
 
-> Spřadena ze svitu  
-> hvězdy zvané Pelyněk  
-> se snoubí  
-> s kořenem mandragory,  
-> která o půlnoci vzkvétá  
-> pod šibenicí  
-> z posledního semene oběšencova.
+_Kupte si konopný provaz  
+pro hrdlo, aby z něj nevyklouzla věta,  
+že ve třičtvrti na devět  
+budete půldevátí._
 
-> Kupte si konopný provaz  
-> pro hrdlo, aby z něj nevyklouzla věta,  
-> že ve třičtvrti na devět  
-> budete půldevátí.
-
-> Zešílí nešílející.  
-> Pohnou se hory.  
-> Povadnou révová loubí.  
-> Oněmí slova —.  
-> A probudí se kati.
+_Zešílí nešílející.  
+Pohnou se hory.  
+Povadnou révová loubí.  
+Oněmí slova —.  
+A probudí se kati._

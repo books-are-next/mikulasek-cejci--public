@@ -1,25 +1,23 @@
 ---
-title: ''
+title: Pokusy I
 contentType: prose
 ---
 
-Pokusy I
+_Když za noci tiché  
+opustí tě řeč  
+a ty ji necháš mluvit nemluvnou,  
+báseň je němá —  
+konečně!_
 
-> Když za noci tiché  
-> opustí tě řeč  
-> a ty ji necháš mluvit nemluvnou,  
-> báseň je němá —  
-> konečně!
+_A ty se neostýchej!  
+Každičké slovo  
+je na tvou duši leč._
 
-> A ty se neostýchej!  
-> Každičké slovo  
-> je na tvou duši leč.
+_Buď vodou,  
+která jen z dešťů skane!  
+Buď vzduchem,  
+který se k vzduchu nemá —  
+a požat — koncem žně!_
 
-> Buď vodou,  
-> která jen z dešťů skane!  
-> Buď vzduchem,  
-> který se k vzduchu nemá —  
-> a požat — koncem žně!
-
-> Nevýslovnými stony někde stonou  
-> stonky, ach, stonky nedostončené.
+_Nevýslovnými stony někde stonou  
+stonky, ach, stonky nedostončené._

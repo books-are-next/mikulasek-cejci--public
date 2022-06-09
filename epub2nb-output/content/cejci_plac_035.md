@@ -1,39 +1,37 @@
 ---
-title: ''
+title: Bílé neštovice
 contentType: prose
 ---
 
-Bílé neštovice
+_Už tep můj ztich  
+i tvůj  
+na hrdle, kde jsi nejvíc nahá._
 
-> Už tep můj ztich  
-> i tvůj  
-> na hrdle, kde jsi nejvíc nahá.
+_Můj pro tebe,  
+tvůj pro mne._
 
-> Můj pro tebe,  
-> tvůj pro mne.
+_Už není nic, má drahá,  
+to si pamatuj!  
+I železo se ohne._
 
-> Už není nic, má drahá,  
-> to si pamatuj!  
-> I železo se ohne.
+_Už není nic,  
+jen horký sníh  
+po všech tvých šlépějích  
+a v nich  
+má mizející dráha._
 
-> Už není nic,  
-> jen horký sníh  
-> po všech tvých šlépějích  
-> a v nich  
-> má mizející dráha.
+_Kam s listím odlétl sad,  
+ve kterém tiskli jsme si ruce,  
+chřadnoucí chladem?  
+A kam náš hlad,  
+když od úst brali jsme si slova  
+a sytili se hladem?_
 
-> Kam s listím odlétl sad,  
-> ve kterém tiskli jsme si ruce,  
-> chřadnoucí chladem?  
-> A kam náš hlad,  
-> když od úst brali jsme si slova  
-> a sytili se hladem?
+_Už není nic,  
+bože můj,  
+nic, co se něčím strašným stává  
+v bolesti a muce._
 
-> Už není nic,  
-> bože můj,  
-> nic, co se něčím strašným stává  
-> v bolesti a muce.
-
-> Sýkorka v sadě ozobává  
-> lůj,  
-> celý od bílých neštovic.
+_Sýkorka v sadě ozobává  
+lůj,  
+celý od bílých neštovic._

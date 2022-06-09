@@ -1,35 +1,33 @@
 ---
-title: ''
+title: Divy
 contentType: prose
 ---
 
-Divy
+_Tvoje oči — hlubočina,  
+aby v ní navždy  
+luna utonula —  
+a nepohnula hořem._
 
-> Tvoje oči — hlubočina,  
-> aby v ní navždy  
-> luna utonula —  
-> a nepohnula hořem.
+_Utichl vítr  
+zmořen —  
+a zbláznil._
 
-> Utichl vítr  
-> zmořen —  
-> a zbláznil.
+_Tvoje ústa —  
+jazyk brzy nazývati  
+samomluvou duše._
 
-> Tvoje ústa —  
-> jazyk brzy nazývati  
-> samomluvou duše.
+_Slyším vlas tvůj váti.  
+A když noc je pustá,  
+odhaluje šíji,  
+že bůh temnot vzrušen  
+prohlédne a šílí  
+bezhlavý, neb sťatý —  
+on meč — onou šíjí._
 
-> Slyším vlas tvůj váti.  
-> A když noc je pustá,  
-> odhaluje šíji,  
-> že bůh temnot vzrušen  
-> prohlédne a šílí  
-> bezhlavý, neb sťatý —  
-> on meč — onou šíjí.
+_Slyším slzu štkáti,  
+že jí ublížili._
 
-> Slyším slzu štkáti,  
-> že jí ublížili.
-
-> Vidím dívati se  
-> tebe na muškáty  
-> a muškáty cudně  
-> pak se červenati.
+_Vidím dívati se  
+tebe na muškáty  
+a muškáty cudně  
+pak se červenati._

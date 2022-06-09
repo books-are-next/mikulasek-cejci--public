@@ -1,25 +1,23 @@
 ---
-title: ''
+title: Ptáčkové
 contentType: prose
 ---
 
-Ptáčkové
+_Kolikže je to let,  
+co jsem se díval,  
+jak sedal na okolík  
+stehlík či čížek maličký?_
 
-> Kolikže je to let,  
-> co jsem se díval,  
-> jak sedal na okolík  
-> stehlík či čížek maličký?
+_Čižbaři chytali je na lep.  
+Do klícek. Do mříží.  
+A oni zpívali.  
+I já si zazpíval.  
+Kolikže je to let?_
 
-> Čižbaři chytali je na lep.  
-> Do klícek. Do mříží.  
-> A oni zpívali.  
-> I já si zazpíval.  
-> Kolikže je to let?
+_Do nových klecí nahlížím  
+na ty, ach, na ty,  
+na andělíčky._
 
-> Do nových klecí nahlížím  
-> na ty, ach, na ty,  
-> na andělíčky.
-
-> Plachetky dejte jim  
-> přes noc na klícky —  
-> ať zpívají i dál.
+_Plachetky dejte jim  
+přes noc na klícky —  
+ať zpívají i dál._

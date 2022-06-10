@@ -3,6 +3,8 @@ title: ''
 contentType: prose
 ---
 
+<section>
+
 Znění tohoto textu vychází z díla [Čejčí pláč](https://search.mlp.cz/cz/titul/cejci-plac/11551/#/getPodobneTituly=deskriptory-eq:97604239-amp:key-eq:11551) tak, jak bylo vydáno nakladatelstvím Mladá fronta v Praze v roce 1984. Pro potřeby vydání Městské knihovny v Praze byl text redakčně zpracován.
 
 **§**
@@ -15,4 +17,10 @@ Vydání (obálka, upoutávka, citační stránka a grafická úprava), jehož a
 
 Verze 1.0 z 6. 11. 2020.
 
+</section>
+
+<section>
+
 ![](../Images/image002.jpg)
+
+</section>

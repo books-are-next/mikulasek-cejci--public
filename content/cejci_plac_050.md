@@ -3,12 +3,18 @@ title: Mé dvanáctero
 contentType: prose
 ---
 
+<section>
+
 _1) Dokud moje ústa  
      se rozvírat budou jako růže  
      a zplna srdce, ze sevřené hrudi  
      vdechnu do všech slov svých,  
      co mužem dělá muže —  
      budu!_
+
+</section>
+
+<section>
 
 _2) Dokud, co lomcuje mnou  
      jak strašné dušetřesení,  
@@ -17,6 +23,10 @@ _2) Dokud, co lomcuje mnou
      a přece s listím neopadám  
      ani v jeseni —  
      budu!_
+
+</section>
+
+<section>
 
 _3) Dokud jen padám,  
      (a padám neustále),  
@@ -35,6 +45,10 @@ _3) Dokud jen padám,
      jakéhos litkupu —  
      budu!_
 
+</section>
+
+<section>
+
 _4) Dokud v tom světě bezpráví  
      práv sobě nepožádám  
      a lvem zůstanu jako lvi,  
@@ -43,6 +57,10 @@ _4) Dokud v tom světě bezpráví
      a budu děsit hyeny  
      i mroucím řevem —  
      budu!_
+
+</section>
+
+<section>
 
 _5) Dokud vesmír bude  
      hvězdou jedinou  
@@ -53,6 +71,10 @@ _5) Dokud vesmír bude
      a my začnem vzlétat od podpatků  
      k nebi, zemí neochozeni —  
      budu!_
+
+</section>
+
+<section>
 
 _6) Dokud slzou zroním  
      umírající včelu,  
@@ -66,6 +88,10 @@ _6) Dokud slzou zroním
      naděje vzkvetla  
      západu slunce v té marné slze si ustlat —  
      budu!_
+
+</section>
+
+<section>
 
 _7) Dokud mne vzruší  
      zardoušený pláč  
@@ -82,6 +108,10 @@ _7) Dokud mne vzruší
      a já zavzlykám, bože, nedopusť —  
      budu!_
 
+</section>
+
+<section>
+
 _8) Dokud prostírati budeš  
      svůj rozrůzněný vlas,  
      aby ti prchavé paprsky  
@@ -90,6 +120,10 @@ _8) Dokud prostírati budeš
      jako by sluncem myslelas  
      a vanula po liliích —  
      budu!_
+
+</section>
+
+<section>
 
 _9) Dokud při spatření  
      hrdla bělostného,  
@@ -100,6 +134,10 @@ _9) Dokud při spatření
      a žiju prudčeji, když hynu —  
      budu!_
 
+</section>
+
+<section>
+
 _10) Dokud tvá chůze  
      nespočetného vojska  
      andělů, kteří připažili křídla,  
@@ -107,6 +145,10 @@ _10) Dokud tvá chůze
      mé srdce zastaví,  
      však zemřu na křídlech —  
      budu!_
+
+</section>
+
+<section>
 
 _11) Dokud jak poháry  
      o sebe třesknem  
@@ -123,6 +165,10 @@ _11) Dokud jak poháry
      Já ale budu!  
      Budu tou beznadějí!_
 
+</section>
+
+<section>
+
 _12) Dokud však vroucnět bude  
      vzduch kolem tvého těla  
      a chvít se žádostivostí  
@@ -135,6 +181,12 @@ _12) Dokud však vroucnět bude
      jak zvíře na porážku —  
      budeš!_
 
+</section>
+
+<section>
+
      _Nejsoucí, navždycky tichá,  
      oněmělá  
      v mém neslyšitelném nářku._
+
+</section>

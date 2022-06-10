@@ -3,6 +3,8 @@ title: Dopis Múze
 contentType: prose
 ---
 
+<section>
+
 _Tys mlčela  
 jak písek pouště Gobi  
 a ještě stínila to ticho  
@@ -11,6 +13,10 @@ Ale za nimi jsi měla
 otevřené oči.  
 A v nich ty všechny  
 pochované hroby._
+
+</section>
+
+<section>
 
 _Možná, že každá láska  
 je vskutku jen zajíklá pomlka  
@@ -26,13 +32,25 @@ vždycky drží v ruce
 opilý kočí.  
 A napřáhne se, než švihne._
 
+</section>
+
+<section>
+
 _Jakýsi interval…_
+
+</section>
+
+<section>
 
 _A v něm se nenadále kácí  
 jeden vesmír do druhého  
 jak do naděje strach,  
 který se odjakživa bál,  
 že nestačí si prchnout._
+
+</section>
+
+<section>
 
 _A my pak nazýváme  
 sněžení hvězd něhou,  
@@ -47,6 +65,10 @@ roštem řas do pekel —
 a pro budoucí, nesmrtelný prach —  
 a ono navždy, navždy nic…_
 
+</section>
+
+<section>
+
 _Jakože pel  
 si vymyslil květinu,  
 aby mohl být setřen motýlem;  
@@ -57,7 +79,15 @@ a jakože snubný verš
 myšlenkou tajnou  
 se vždycky zakrvácí._
 
+</section>
+
+<section>
+
 _Jakýsi červánek —_
+
+</section>
+
+<section>
 
 _Ale kdo je ten třetí,  
 jenž překračuje práh  
@@ -66,3 +96,5 @@ i snění za bílého dne
 a pohřížen v sebe se dívá,  
 jak něco těžkého za sebou táhnou  
 mizející ptáci?_
+
+</section>

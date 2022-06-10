@@ -3,10 +3,16 @@ title: Tam
 contentType: prose
 ---
 
+<section>
+
 _Maminka dávno umřela,  
 tak jsem se jí zeptal,  
 maminky,  
 jaké to tam vlastně je._
+
+</section>
+
+<section>
 
 _Podívala se vyčítavě,  
 ale ne zas moc  
@@ -21,6 +27,10 @@ a lžičku po lžičce
 ukládajíc do kredence,  
 šeptla — a co já vím, synku._
 
+</section>
+
+<section>
+
 _A nadlouho se potom odmlčela.  
 Tak nějak bez řeči,  
 jak bez dětí a tence  
@@ -32,7 +42,13 @@ a nic, nic nechtít
 se jim jenom chce  
 v těch dlouhých mrákotách._
 
+</section>
+
+<section>
+
 _Zatím jí oschla  
 slza na tváři —  
 i nádobí  
 a prudce zavonělo ovoce._
+
+</section>

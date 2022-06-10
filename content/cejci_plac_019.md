@@ -3,6 +3,8 @@ title: Verše psané na účtenku
 contentType: prose
 ---
 
+<section>
+
 _Zas budu jako dřív  
 psát verše na účtenku.  
 Usrknu vína,  
@@ -11,6 +13,10 @@ a počkám na múzu,
 až uplete mně z hřív  
 všech možných pegasů  
 bič vzácný zrovna na ně._
+
+</section>
+
+<section>
 
 _Pak prásknu do koní,  
 vyjedu z nečasu  
@@ -23,6 +29,10 @@ za jeho vlastní rým
 a že se podobá  
 ten měsíc jisté luně._
 
+</section>
+
+<section>
+
 _Má múzo ubohá,  
 odpusť, však já už končím,  
 mám přece taky cit —  
@@ -33,3 +43,5 @@ i mně samému pro radost,
 a dát si ještě jednu sklenku,  
 dokud se s nimi  
 navždy nerozloučím._
+
+</section>

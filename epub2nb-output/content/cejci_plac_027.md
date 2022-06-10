@@ -3,10 +3,16 @@ title: Vlčina
 contentType: prose
 ---
 
+<section>
+
 _Já, starý vlk,  
 šedý a toulavý,  
 po jehněčí slídím krvi,  
 neboť má mrzne už._
+
+</section>
+
+<section>
 
 _Ač vyobcován z obce  
 v povodí Úhlavy  
@@ -18,6 +24,10 @@ ani tesáky, ani nůž,
 do vinohradu se kradu  
 přetnouti čerstvý hrozen._
 
+</section>
+
+<section>
+
 _Zářivá rosa jej ojíní.  
 A já v tom kraji po révě,  
 po víně zvaném Povíní,  
@@ -28,3 +38,5 @@ sám podřezáván krvácejícími
 než i jim je, pitcům, tvrdě od úst  
 ten nevinný, vinný osud  
 navždy oderve._
+
+</section>

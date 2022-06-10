@@ -3,10 +3,16 @@ title: Naše Indie
 contentType: prose
 ---
 
+<section>
+
 _Chtít, chtít, nenasytně chtít  
 po rozpukané půdě Nevady,  
 aby se spustily konečně deště  
 na vyprahlou naši lásku._
+
+</section>
+
+<section>
 
 _Chtít, chtít, aby monsuny  
 naší indiskrétní Indie  
@@ -21,6 +27,10 @@ chtít nikdy, nikdy neumřít,
 než spolu,  
 dolů horem, horem dolů!_
 
+</section>
+
+<section>
+
 _Opadly deště.  
 Zůstal jen po nich  
 prales vlasů tvých.  
@@ -29,6 +39,10 @@ dělám, co vidím ti na očích,
 a mám tě za tělo  
 těch paprsků, žhavěji jiskřících,  
 ó naše Indie!_
+
+</section>
+
+<section>
 
 _Na vše se umírá.  
 Na čas i počasí,  
@@ -39,3 +53,5 @@ A nechtít, chce se nám nechtít,
 miláčku,  
 vidět byť jen tvé nehty,  
 zbarvené červcem košenilovým._
+
+</section>

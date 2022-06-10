@@ -3,6 +3,8 @@ title: Eloáh
 contentType: prose
 ---
 
+<section>
+
 > _(monolog blázna)_
 
 _Všichni se jednou zeptají:  
@@ -19,11 +21,19 @@ třeba jen douškem,
 tím samcem dušičky,  
 když vyletěla zátka._
 
+</section>
+
+<section>
+
 _Tak vzniká déšť.  
 A potom prší, prší navždycky,  
 až z potopy je kapka maličká.  
 Ale já vím, že je to Eloáh,  
 jediné, co vím!_
+
+</section>
+
+<section>
 
 _Ach, Eloáh, který se stále zdráhá  
 říci, že je to touha  
@@ -33,9 +43,17 @@ na stohára —
 a každé stéblo zvlášť.  
 A obilíčko — samý pláč._
 
+</section>
+
+<section>
+
 _Tak vzniká déšť,  
 a potom prší, prší navždycky,  
 až z potopy je kapka maličká._
+
+</section>
+
+<section>
 
 _To už jsem ale řekl.  
 A říci — přísaha je — pěst!  
@@ -44,6 +62,10 @@ co zve se Eloáhem,
 odpoví konečně —  
 a odpověď je strašná —!_
 
+</section>
+
+<section>
+
 _Je to jen rybička,  
 v které se koupe kašna.  
 A hvězdy klovající do zrní,  
@@ -51,8 +73,14 @@ aby vejce mohly snášet
 bez konce.  
 A Ámen!_
 
+</section>
+
+<section>
+
 _Vesmír, ta tichá trouba hlásná —  
 slyšeli jste snad něco?  
 Srdce zkormoucená,  
 do čehož bíti nemají —  
 do hrudi, bronzu, do zvonce…_
+
+</section>

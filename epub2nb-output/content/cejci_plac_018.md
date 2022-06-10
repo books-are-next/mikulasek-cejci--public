@@ -3,6 +3,8 @@ title: Vyzvánění
 contentType: prose
 ---
 
+<section>
+
 _Jestliže najednou potkám  
 tolik lidí,  
 (a vždycky nejvýš dva),  
@@ -14,6 +16,10 @@ jako o svatbách —
 a ty zvony znovu zazní-li,  
 mám zůstat celý pryč,  
 nebo se krást domů?_
+
+</section>
+
+<section>
 
 _Možná je čas  
 kobylek a hříbat;  
@@ -28,11 +34,19 @@ a nevidí se kráčet
 tam, kde teď vítr  
 list po listu líbá._
 
+</section>
+
+<section>
+
 _Jestli se najednou potkám  
 s těmi, co mají klíč  
 k hrobkám  
 láskou dosud nepochovaných,  
 mám umřít, nebo mlčet?_
+
+</section>
+
+<section>
 
 _Možná je čas  
 nemání a mání.  
@@ -40,3 +54,5 @@ nemání a mání.
 šeptne ryba;  
 čas všeho čistého  
 a na klekání._
+
+</section>

@@ -1,6 +1,6 @@
 ---
 title: BÍLÉ NEŠTOVICE
-contentType: prose
+contentType: poetry
 ---
 
 

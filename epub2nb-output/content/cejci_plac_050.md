@@ -1,34 +1,34 @@
 ---
 title: Mé dvanáctero
-contentType: prose
+contentType: poetry
 ---
 
 <section>
 
-_1) Dokud moje ústa  
+1) Dokud moje ústa  
      se rozvírat budou jako růže  
      a zplna srdce, ze sevřené hrudi  
      vdechnu do všech slov svých,  
      co mužem dělá muže —  
-     budu!_
+     budu!
 
 </section>
 
 <section>
 
-_2) Dokud, co lomcuje mnou  
+2) Dokud, co lomcuje mnou  
      jak strašné dušetřesení,  
      rozechví ve mně  
      tu nejtajnější strunu,  
      a přece s listím neopadám  
      ani v jeseni —  
-     budu!_
+     budu!
 
 </section>
 
 <section>
 
-_3) Dokud jen padám,  
+3) Dokud jen padám,  
      (a padám neustále),  
      kolmým pádem telegrafní tyče,  
      jako bych popouzel Velkého Cenzora  
@@ -43,26 +43,26 @@ _3) Dokud jen padám,
      vinou divých skutků  
      a verš mne zvedne s hříšným proklínáním  
      jakéhos litkupu —  
-     budu!_
+     budu!
 
 </section>
 
 <section>
 
-_4) Dokud v tom světě bezpráví  
+4) Dokud v tom světě bezpráví  
      práv sobě nepožádám  
      a lvem zůstanu jako lvi,  
      ti staří, ale nezprašivělí,  
      s řídkou sic, však hrdou hřívou  
      a budu děsit hyeny  
      i mroucím řevem —  
-     budu!_
+     budu!
 
 </section>
 
 <section>
 
-_5) Dokud vesmír bude  
+5) Dokud vesmír bude  
      hvězdou jedinou  
      a světy, jeho plátky  
      po poupátku,  
@@ -70,13 +70,13 @@ _5) Dokud vesmír bude
      znovuzrození —  
      a my začnem vzlétat od podpatků  
      k nebi, zemí neochozeni —  
-     budu!_
+     budu!
 
 </section>
 
 <section>
 
-_6) Dokud slzou zroním  
+6) Dokud slzou zroním  
      umírající včelu,  
      plnou nedonošeného medu,  
      dokud břit světla  
@@ -87,13 +87,13 @@ _6) Dokud slzou zroním
      aby i v stínu vrb smutečních  
      naděje vzkvetla  
      západu slunce v té marné slze si ustlat —  
-     budu!_
+     budu!
 
 </section>
 
 <section>
 
-_7) Dokud mne vzruší  
+7) Dokud mne vzruší  
      zardoušený pláč  
      nevyslyšených žen  
      a sotva se pohybujících úst  
@@ -106,51 +106,51 @@ _7) Dokud mne vzruší
      na poslední chudobku — a srázná  
      křeč strhává smyčku s hrdla jeho —  
      a já zavzlykám, bože, nedopusť —  
-     budu!_
+     budu!
 
 </section>
 
 <section>
 
-_8) Dokud prostírati budeš  
+8) Dokud prostírati budeš  
      svůj rozrůzněný vlas,  
      aby ti prchavé paprsky  
      spočinouti mohly  
      na ramenou a šíji —  
      jako by sluncem myslelas  
      a vanula po liliích —  
-     budu!_
+     budu!
 
 </section>
 
 <section>
 
-_9) Dokud při spatření  
+9) Dokud při spatření  
      hrdla bělostného,  
      jež se cudně halí  
      do oslepujícího stínu  
      nahoty, na niž žárlí šat,  
      pocítím, že hořím nad šarlat  
      a žiju prudčeji, když hynu —  
-     budu!_
+     budu!
 
 </section>
 
 <section>
 
-_10) Dokud tvá chůze  
+10) Dokud tvá chůze  
      nespočetného vojska  
      andělů, kteří připažili křídla,  
      aby je nesl můj, i zádušný můj dech,  
      mé srdce zastaví,  
      však zemřu na křídlech —  
-     budu!_
+     budu!
 
 </section>
 
 <section>
 
-_11) Dokud jak poháry  
+11) Dokud jak poháry  
      o sebe třesknem  
      a víno se rozhlaholí  
      nám v žilách na poplach,  
@@ -163,13 +163,13 @@ _11) Dokud jak poháry
      lásky — smrti její —  
      nevím, co Ty?  
      Já ale budu!  
-     Budu tou beznadějí!_
+     Budu tou beznadějí!
 
 </section>
 
 <section>
 
-_12) Dokud však vroucnět bude  
+12) Dokud však vroucnět bude  
      vzduch kolem tvého těla  
      a chvít se žádostivostí  
      odnést tě někam,  
@@ -179,14 +179,14 @@ _12) Dokud však vroucnět bude
      bez mužských, obyčejných kleteb,  
      že jenom jejich jsi  
      jak zvíře na porážku —  
-     budeš!_
+     budeš!
 
 </section>
 
 <section>
 
-     _Nejsoucí, navždycky tichá,  
+     Nejsoucí, navždycky tichá,  
      oněmělá  
-     v mém neslyšitelném nářku._
+     v mém neslyšitelném nářku.
 
 </section>

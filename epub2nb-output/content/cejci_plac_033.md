@@ -1,48 +1,48 @@
 ---
 title: Kruté něhy
-contentType: prose
+contentType: poetry
 ---
 
 <section>
 
-_Po úzké cestě prochází se nůž.  
+Po úzké cestě prochází se nůž.  
 A biřici ho jaksi nadženou.  
 Nebo on biřice.  
 Děje se, že dlouho  
 nedělo se nic  
 a potom všechno náhodou  
-je pouhou._
+je pouhou.
 
 </section>
 
 <section>
 
-_Muž —  
+Muž —  
 to je zříci se  
 vítězství nad ženou,  
 která ho miluje,  
 ach, miluje ho víc,  
 než on sám sebe —  
 a někdy jako pole  
-žence svého sežne._
+žence svého sežne.
 
 </section>
 
 <section>
 
-_Co kruté je? Co něžné?  
+Co kruté je? Co něžné?  
 Která by neupletla  
 s pečlivostí smyčku  
 z nejtenčích provázků,  
 ba z nití —  
 pro zradu; co je to smrt  
-pro ponížené?_
+pro ponížené?
 
 </section>
 
 <section>
 
-_Co je to peklo — co nebe?  
+Co je to peklo — co nebe?  
 Obojí málo pro lásku,  
 která je jenom bláznivá,  
 dokud nezešílí  
@@ -51,27 +51,27 @@ na spálení všech milovaných řas,
 aby ji slepě miloval,  
 jen ji —  
 žitečko, žitko, žití,  
-jež v krvi doznívá._
+jež v krvi doznívá.
 
 </section>
 
 <section>
 
-_Všechna zvěř —  
+Všechna zvěř —  
 tygři, lvi, zajíci i ryby  
-bojí se sítí._
+bojí se sítí.
 
 </section>
 
 <section>
 
-_Prchají psi  
-zděšeni — po návsi._
+Prchají psi  
+zděšeni — po návsi.
 
 </section>
 
 <section>
 
-_Jde ras!_
+Jde ras!
 
 </section>

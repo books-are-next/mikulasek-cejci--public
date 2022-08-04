@@ -1,30 +1,30 @@
 ---
 title: Dopis druhé ženě
-contentType: prose
+contentType: poetry
 ---
 
 <section>
 
-_Najednou nadejde ten čas,  
+Najednou nadejde ten čas,  
 kdy odložíme tělo — a v stínu  
 samoty se ptáme,  
 co vlastně zbylo z duše,  
 co z duše naší zbylo,  
-krom vyvanulé vůně naftalínu?_
+krom vyvanulé vůně naftalínu?
 
 </section>
 
 <section>
 
-_I smutek nějak chřadne  
+I smutek nějak chřadne  
 v ústraní,  
-bez pláče, bez slz — suše._
+bez pláče, bez slz — suše.
 
 </section>
 
 <section>
 
-_Příliš černého je v černém  
+Příliš černého je v černém  
 a v bílém příliš bílo,  
 jak by se peklo peklem  
 a nebe nebem  
@@ -39,54 +39,54 @@ vzduch mezi námi
 je k nedýchání hustý  
 a my se dusíme, udusit nemohouce  
 to rozestouplé ticho  
-kdysi tak po sobě prahnoucími ústy._
+kdysi tak po sobě prahnoucími ústy.
 
 </section>
 
 <section>
 
-_Cosi v nás klečí  
+Cosi v nás klečí  
 a prosí o milost,  
 ať už je konec,  
 však aspoň žíně tři  
 ať z planoucích zbudou hřiv:  
 spatření, blesk a div  
-sladce zaskočeného srdce._
+sladce zaskočeného srdce.
 
 </section>
 
 <section>
 
-_Svět zmizel — potkaly se světy._
+Svět zmizel — potkaly se světy.
 
 </section>
 
 <section>
 
-_Ale to bylo…_
+Ale to bylo…
 
 </section>
 
 <section>
 
-_Teď třpyť se a vzlétej, třepotej se,  
+Teď třpyť se a vzlétej, třepotej se,  
 motýlku můj, můj ptáčku, rybičko,  
-v tom smutném mumraji!_
+v tom smutném mumraji!
 
 </section>
 
 <section>
 
-_Já nemám už na konfety._
+Já nemám už na konfety.
 
 </section>
 
 <section>
 
-_Odejít dřív,  
+Odejít dřív,  
 než pozdě odejít  
 o berlích veršů,  
 které též kulhají —  
-a vzdychnout maličko._
+a vzdychnout maličko.
 
 </section>

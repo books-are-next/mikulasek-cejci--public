@@ -1,6 +1,6 @@
 ---
 title: BÁSNĚ JEDNÉ NOCI
-contentType: prose
+contentType: poetry
 ---
 
 

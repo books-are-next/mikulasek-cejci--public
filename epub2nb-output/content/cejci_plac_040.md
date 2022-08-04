@@ -1,93 +1,93 @@
 ---
 title: Panu Gauguinovi
-contentType: prose
+contentType: poetry
 ---
 
 <section>
 
-_Kdo jsi?  
+Kdo jsi?  
 Odkud jdeš?  
-A kam?_
+A kam?
 
 </section>
 
 <section>
 
-_Ticho se slovem kosí.  
+Ticho se slovem kosí.  
 Nedoženeš ale, nikdy nedoženeš  
-rejnoky oceán._
+rejnoky oceán.
 
 </section>
 
 <section>
 
-_Kdo jsi?  
+Kdo jsi?  
 Odkud jdeš?  
-A kam?_
+A kam?
 
 </section>
 
 <section>
 
-_Žebrák se nedoprosí.  
+Žebrák se nedoprosí.  
 Tisíckrát na kost ohryzaná lež  
-zbude jen mošničkám._
+zbude jen mošničkám.
 
 </section>
 
 <section>
 
-_Kdo jsi?  
+Kdo jsi?  
 Odkud jdeš?  
-A kam?_
+A kam?
 
 </section>
 
 <section>
 
-_Smrtelný pot ti čelo zrosí;  
+Smrtelný pot ti čelo zrosí;  
 jediné vláhy se naděješ —  
-a s ní tak suše sám._
+a s ní tak suše sám.
 
 </section>
 
 <section>
 
-_Kdo jsi?  
+Kdo jsi?  
 Odkud jdeš?  
-A kam?_
+A kam?
 
 </section>
 
 <section>
 
-_Zrozený nah, pak bosý  
+Zrozený nah, pak bosý  
 v písku svou stopu zavěješ,  
-samumem zavíván._
+samumem zavíván.
 
 </section>
 
 <section>
 
-_Kdo jsi?  
+Kdo jsi?  
 Odkud jdeš?  
-A kam?_
+A kam?
 
 </section>
 
 <section>
 
-_Bohy, ty pštrosí,  
+Bohy, ty pštrosí,  
 neuzříš,  
 neb poděli se bůhvíkam,  
 jak i ty jednou se poděješ.  
-A to je tvoje říš!_
+A to je tvoje říš!
 
 </section>
 
 <section>
 
-_A marnost nádherná,  
-na které hrobaříš._
+A marnost nádherná,  
+na které hrobaříš.
 
 </section>

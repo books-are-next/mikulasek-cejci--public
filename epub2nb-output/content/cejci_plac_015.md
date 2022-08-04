@@ -1,40 +1,40 @@
 ---
 title: Kartouzek
-contentType: prose
+contentType: poetry
 ---
 
 <section>
 
-_Ptala ses mne,  
+Ptala ses mne,  
 jsi-li vůbec krásná?  
 A já tě viděl jenom jedinou.  
 Vojáci švarní jeli dědinou  
-a vidouce tě, sesedali s koní._
+a vidouce tě, sesedali s koní.
 
 </section>
 
 <section>
 
-_Třemi prsty mužský  
+Třemi prsty mužský  
 stéblo trávy semne.  
 Setmí se  
 a slunko navždy zhasne.  
 V prsou se sevře cosi,  
 co není ani mnou,  
 leč před čím srdce  
-hluboko se skloní._
+hluboko se skloní.
 
 </section>
 
 <section>
 
-_Úvoz, kudy může jet  
+Úvoz, kudy může jet  
 jediný vůz, je úzký.  
 Mám v očích tmu,  
 tmu zřítelnic tvých jen —  
 a v záři vidím tě,  
 div neoslepnu  
 krví skropenou květinou —  
-a květina ta — je můj kartouzek._
+a květina ta — je můj kartouzek.
 
 </section>

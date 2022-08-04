@@ -1,0 +1,1033 @@
+{
+  "preview": {
+    "isPreview": false
+  },
+  "title": "Čejčí pláč",
+  "author": "Oldřich Mikulášek",
+  "publisher": "Městská knihovna v Praze",
+  "edition": "poezie",
+  "languageCode": "cs",
+  "root": "main",
+  "identifier": "mikulasek-cejci-plac-95a38a2",
+  "revision": "95a38a2",
+  "readingOrder": [
+    "promo.html",
+    "cejci_plac_005.html",
+    "cejci_plac_006.html",
+    "cejci_plac_007.html",
+    "cejci_plac_008.html",
+    "cejci_plac_009.html",
+    "cejci_plac_010.html",
+    "cejci_plac_011.html",
+    "cejci_plac_012.html",
+    "cejci_plac_013.html",
+    "cejci_plac_014.html",
+    "cejci_plac_015.html",
+    "cejci_plac_016.html",
+    "cejci_plac_017.html",
+    "cejci_plac_018.html",
+    "cejci_plac_019.html",
+    "cejci_plac_020.html",
+    "cejci_plac_021.html",
+    "cejci_plac_022.html",
+    "cejci_plac_023.html",
+    "cejci_plac_024.html",
+    "cejci_plac_025.html",
+    "cejci_plac_026.html",
+    "cejci_plac_027.html",
+    "cejci_plac_028.html",
+    "cejci_plac_029.html",
+    "cejci_plac_030.html",
+    "cejci_plac_031.html",
+    "cejci_plac_032.html",
+    "cejci_plac_033.html",
+    "cejci_plac_034.html",
+    "cejci_plac_035.html",
+    "cejci_plac_036.html",
+    "cejci_plac_037.html",
+    "cejci_plac_038.html",
+    "cejci_plac_039.html",
+    "cejci_plac_040.html",
+    "cejci_plac_041.html",
+    "cejci_plac_042.html",
+    "cejci_plac_043.html",
+    "cejci_plac_044.html",
+    "cejci_plac_045.html",
+    "cejci_plac_046.html",
+    "cejci_plac_047.html",
+    "cejci_plac_048.html",
+    "cejci_plac_049.html",
+    "cejci_plac_050.html",
+    "about.html"
+  ],
+  "generatedAt": {
+    "date": "Thu Aug 04 2022 09:10:24 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1659604224768
+  },
+  "documents": [
+    {
+      "title": "Městská knihovna v Praze",
+      "file": "promo.html",
+      "words": 0,
+      "chars": 0,
+      "ideas": 0,
+      "role": "chapter",
+      "order": 0,
+      "prev": null,
+      "next": "cejci_plac_005.html",
+      "toc": []
+    },
+    {
+      "title": "BÁSNĚ JEDNÉ NOCI",
+      "file": "cejci_plac_005.html",
+      "words": 3,
+      "chars": 16,
+      "ideas": 1,
+      "role": "chapter",
+      "order": 1,
+      "prev": "promo.html",
+      "next": "cejci_plac_006.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "BÁSNĚ JEDNÉ NOCI",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Osika",
+      "file": "cejci_plac_006.html",
+      "words": 181,
+      "chars": 952,
+      "ideas": 40,
+      "role": "chapter",
+      "order": 2,
+      "prev": "cejci_plac_005.html",
+      "next": "cejci_plac_007.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Osika",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Ptáčkové",
+      "file": "cejci_plac_007.html",
+      "words": 60,
+      "chars": 293,
+      "ideas": 16,
+      "role": "chapter",
+      "order": 3,
+      "prev": "cejci_plac_006.html",
+      "next": "cejci_plac_008.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Ptáčkové",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "My sovy",
+      "file": "cejci_plac_008.html",
+      "words": 60,
+      "chars": 314,
+      "ideas": 16,
+      "role": "chapter",
+      "order": 4,
+      "prev": "cejci_plac_007.html",
+      "next": "cejci_plac_009.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "My sovy",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Naše Indie",
+      "file": "cejci_plac_009.html",
+      "words": 134,
+      "chars": 747,
+      "ideas": 34,
+      "role": "chapter",
+      "order": 5,
+      "prev": "cejci_plac_008.html",
+      "next": "cejci_plac_010.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Naše Indie",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Ručičky",
+      "file": "cejci_plac_010.html",
+      "words": 69,
+      "chars": 353,
+      "ideas": 20,
+      "role": "chapter",
+      "order": 6,
+      "prev": "cejci_plac_009.html",
+      "next": "cejci_plac_011.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Ručičky",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Anělina",
+      "file": "cejci_plac_011.html",
+      "words": 128,
+      "chars": 618,
+      "ideas": 33,
+      "role": "chapter",
+      "order": 7,
+      "prev": "cejci_plac_010.html",
+      "next": "cejci_plac_012.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Anělina",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "PLAVUNĚ",
+      "file": "cejci_plac_012.html",
+      "words": 1,
+      "chars": 7,
+      "ideas": 1,
+      "role": "chapter",
+      "order": 8,
+      "prev": "cejci_plac_011.html",
+      "next": "cejci_plac_013.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "PLAVUNĚ",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Plavuně",
+      "file": "cejci_plac_013.html",
+      "words": 101,
+      "chars": 541,
+      "ideas": 27,
+      "role": "chapter",
+      "order": 9,
+      "prev": "cejci_plac_012.html",
+      "next": "cejci_plac_014.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Plavuně",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Drchnička",
+      "file": "cejci_plac_014.html",
+      "words": 55,
+      "chars": 292,
+      "ideas": 18,
+      "role": "chapter",
+      "order": 10,
+      "prev": "cejci_plac_013.html",
+      "next": "cejci_plac_015.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Drchnička",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Kartouzek",
+      "file": "cejci_plac_015.html",
+      "words": 86,
+      "chars": 438,
+      "ideas": 22,
+      "role": "chapter",
+      "order": 11,
+      "prev": "cejci_plac_014.html",
+      "next": "cejci_plac_016.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Kartouzek",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Pampeliška",
+      "file": "cejci_plac_016.html",
+      "words": 60,
+      "chars": 323,
+      "ideas": 20,
+      "role": "chapter",
+      "order": 12,
+      "prev": "cejci_plac_015.html",
+      "next": "cejci_plac_017.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Pampeliška",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "HRY",
+      "file": "cejci_plac_017.html",
+      "words": 1,
+      "chars": 3,
+      "ideas": 1,
+      "role": "chapter",
+      "order": 13,
+      "prev": "cejci_plac_016.html",
+      "next": "cejci_plac_018.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "HRY",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Vyzvánění",
+      "file": "cejci_plac_018.html",
+      "words": 126,
+      "chars": 644,
+      "ideas": 35,
+      "role": "chapter",
+      "order": 14,
+      "prev": "cejci_plac_017.html",
+      "next": "cejci_plac_019.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Vyzvánění",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Verše psané na účtenku",
+      "file": "cejci_plac_019.html",
+      "words": 117,
+      "chars": 581,
+      "ideas": 29,
+      "role": "chapter",
+      "order": 15,
+      "prev": "cejci_plac_018.html",
+      "next": "cejci_plac_020.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Verše psané na účtenku",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Pití",
+      "file": "cejci_plac_020.html",
+      "words": 47,
+      "chars": 267,
+      "ideas": 16,
+      "role": "chapter",
+      "order": 16,
+      "prev": "cejci_plac_019.html",
+      "next": "cejci_plac_021.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Pití",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Divy",
+      "file": "cejci_plac_021.html",
+      "words": 74,
+      "chars": 379,
+      "ideas": 24,
+      "role": "chapter",
+      "order": 17,
+      "prev": "cejci_plac_020.html",
+      "next": "cejci_plac_022.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Divy",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Pokusy I",
+      "file": "cejci_plac_022.html",
+      "words": 59,
+      "chars": 304,
+      "ideas": 16,
+      "role": "chapter",
+      "order": 18,
+      "prev": "cejci_plac_021.html",
+      "next": "cejci_plac_023.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Pokusy I",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Pokusy II",
+      "file": "cejci_plac_023.html",
+      "words": 55,
+      "chars": 230,
+      "ideas": 14,
+      "role": "chapter",
+      "order": 19,
+      "prev": "cejci_plac_022.html",
+      "next": "cejci_plac_024.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Pokusy II",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Pokusy III",
+      "file": "cejci_plac_024.html",
+      "words": 49,
+      "chars": 248,
+      "ideas": 13,
+      "role": "chapter",
+      "order": 20,
+      "prev": "cejci_plac_023.html",
+      "next": "cejci_plac_025.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Pokusy III",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Prodavačka květin",
+      "file": "cejci_plac_025.html",
+      "words": 84,
+      "chars": 406,
+      "ideas": 18,
+      "role": "chapter",
+      "order": 21,
+      "prev": "cejci_plac_024.html",
+      "next": "cejci_plac_026.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Prodavačka květin",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Němoty",
+      "file": "cejci_plac_026.html",
+      "words": 116,
+      "chars": 612,
+      "ideas": 31,
+      "role": "chapter",
+      "order": 22,
+      "prev": "cejci_plac_025.html",
+      "next": "cejci_plac_027.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Němoty",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Vlčina",
+      "file": "cejci_plac_027.html",
+      "words": 89,
+      "chars": 478,
+      "ideas": 24,
+      "role": "chapter",
+      "order": 23,
+      "prev": "cejci_plac_026.html",
+      "next": "cejci_plac_028.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Vlčina",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Jdu se dvěma verši",
+      "file": "cejci_plac_028.html",
+      "words": 131,
+      "chars": 626,
+      "ideas": 35,
+      "role": "chapter",
+      "order": 24,
+      "prev": "cejci_plac_027.html",
+      "next": "cejci_plac_029.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Jdu se dvěma verši",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "BÍLÉ NEŠTOVICE",
+      "file": "cejci_plac_029.html",
+      "words": 2,
+      "chars": 14,
+      "ideas": 1,
+      "role": "chapter",
+      "order": 25,
+      "prev": "cejci_plac_028.html",
+      "next": "cejci_plac_030.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "BÍLÉ NEŠTOVICE",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Dopis první ženě",
+      "file": "cejci_plac_030.html",
+      "words": 185,
+      "chars": 941,
+      "ideas": 52,
+      "role": "chapter",
+      "order": 26,
+      "prev": "cejci_plac_029.html",
+      "next": "cejci_plac_031.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Dopis první ženě",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Dopis druhé ženě",
+      "file": "cejci_plac_031.html",
+      "words": 183,
+      "chars": 956,
+      "ideas": 44,
+      "role": "chapter",
+      "order": 27,
+      "prev": "cejci_plac_030.html",
+      "next": "cejci_plac_032.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Dopis druhé ženě",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Dopis Múze",
+      "file": "cejci_plac_032.html",
+      "words": 211,
+      "chars": 1145,
+      "ideas": 57,
+      "role": "chapter",
+      "order": 28,
+      "prev": "cejci_plac_031.html",
+      "next": "cejci_plac_033.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Dopis Múze",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Kruté něhy",
+      "file": "cejci_plac_033.html",
+      "words": 141,
+      "chars": 694,
+      "ideas": 39,
+      "role": "chapter",
+      "order": 29,
+      "prev": "cejci_plac_032.html",
+      "next": "cejci_plac_034.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Kruté něhy",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "La femme fatal",
+      "file": "cejci_plac_034.html",
+      "words": 66,
+      "chars": 370,
+      "ideas": 19,
+      "role": "chapter",
+      "order": 30,
+      "prev": "cejci_plac_033.html",
+      "next": "cejci_plac_035.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "La femme fatal",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Bílé neštovice",
+      "file": "cejci_plac_035.html",
+      "words": 100,
+      "chars": 478,
+      "ideas": 27,
+      "role": "chapter",
+      "order": 31,
+      "prev": "cejci_plac_034.html",
+      "next": "cejci_plac_036.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Bílé neštovice",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Pouta",
+      "file": "cejci_plac_036.html",
+      "words": 89,
+      "chars": 498,
+      "ideas": 27,
+      "role": "chapter",
+      "order": 32,
+      "prev": "cejci_plac_035.html",
+      "next": "cejci_plac_037.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Pouta",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "ČEJČÍ PLÁČ",
+      "file": "cejci_plac_037.html",
+      "words": 2,
+      "chars": 10,
+      "ideas": 1,
+      "role": "chapter",
+      "order": 33,
+      "prev": "cejci_plac_036.html",
+      "next": "cejci_plac_038.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "ČEJČÍ PLÁČ",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Čejčí pláč",
+      "file": "cejci_plac_038.html",
+      "words": 124,
+      "chars": 710,
+      "ideas": 35,
+      "role": "chapter",
+      "order": 34,
+      "prev": "cejci_plac_037.html",
+      "next": "cejci_plac_039.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Čejčí pláč",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Eloáh",
+      "file": "cejci_plac_039.html",
+      "words": 198,
+      "chars": 1006,
+      "ideas": 47,
+      "role": "chapter",
+      "order": 35,
+      "prev": "cejci_plac_038.html",
+      "next": "cejci_plac_040.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Eloáh",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Panu Gauguinovi",
+      "file": "cejci_plac_040.html",
+      "words": 105,
+      "chars": 541,
+      "ideas": 35,
+      "role": "chapter",
+      "order": 36,
+      "prev": "cejci_plac_039.html",
+      "next": "cejci_plac_041.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Panu Gauguinovi",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Sonet a dva verše navíc pro Oldřicha Vyhlídala",
+      "file": "cejci_plac_041.html",
+      "words": 112,
+      "chars": 559,
+      "ideas": 17,
+      "role": "chapter",
+      "order": 37,
+      "prev": "cejci_plac_040.html",
+      "next": "cejci_plac_042.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Sonet a dva verše navíc pro Oldřicha Vyhlídala",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Dávný obraz",
+      "file": "cejci_plac_042.html",
+      "words": 86,
+      "chars": 454,
+      "ideas": 16,
+      "role": "chapter",
+      "order": 38,
+      "prev": "cejci_plac_041.html",
+      "next": "cejci_plac_043.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Dávný obraz",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Mansardy",
+      "file": "cejci_plac_043.html",
+      "words": 123,
+      "chars": 670,
+      "ideas": 32,
+      "role": "chapter",
+      "order": 39,
+      "prev": "cejci_plac_042.html",
+      "next": "cejci_plac_044.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Mansardy",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Gambie",
+      "file": "cejci_plac_044.html",
+      "words": 89,
+      "chars": 441,
+      "ideas": 28,
+      "role": "chapter",
+      "order": 40,
+      "prev": "cejci_plac_043.html",
+      "next": "cejci_plac_045.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Gambie",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Osud",
+      "file": "cejci_plac_045.html",
+      "words": 82,
+      "chars": 419,
+      "ideas": 20,
+      "role": "chapter",
+      "order": 41,
+      "prev": "cejci_plac_044.html",
+      "next": "cejci_plac_046.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Osud",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Noční ptáci",
+      "file": "cejci_plac_046.html",
+      "words": 124,
+      "chars": 636,
+      "ideas": 28,
+      "role": "chapter",
+      "order": 42,
+      "prev": "cejci_plac_045.html",
+      "next": "cejci_plac_047.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Noční ptáci",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Bez názvu",
+      "file": "cejci_plac_047.html",
+      "words": 77,
+      "chars": 408,
+      "ideas": 18,
+      "role": "chapter",
+      "order": 43,
+      "prev": "cejci_plac_046.html",
+      "next": "cejci_plac_048.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Bez názvu",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Poezie",
+      "file": "cejci_plac_048.html",
+      "words": 97,
+      "chars": 524,
+      "ideas": 27,
+      "role": "chapter",
+      "order": 44,
+      "prev": "cejci_plac_047.html",
+      "next": "cejci_plac_049.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Poezie",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Tam",
+      "file": "cejci_plac_049.html",
+      "words": 119,
+      "chars": 603,
+      "ideas": 31,
+      "role": "chapter",
+      "order": 45,
+      "prev": "cejci_plac_048.html",
+      "next": "cejci_plac_050.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Tam",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Mé dvanáctero",
+      "file": "cejci_plac_050.html",
+      "words": 473,
+      "chars": 2615,
+      "ideas": 124,
+      "role": "chapter",
+      "order": 46,
+      "prev": "cejci_plac_049.html",
+      "next": "about.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Mé dvanáctero",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Tiráž",
+      "file": "about.html",
+      "words": 134,
+      "chars": 879,
+      "ideas": 15,
+      "role": "about",
+      "order": null,
+      "prev": "cejci_plac_050.html",
+      "next": null,
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Tiráž",
+          "id": null,
+          "children": []
+        }
+      ]
+    }
+  ],
+  "totals": {
+    "all": {
+      "words": 4814,
+      "chars": 25279,
+      "ideas": 1248
+    },
+    "chapters": {
+      "words": 4674,
+      "chars": 24364,
+      "ideas": 1229
+    }
+  }
+}

@@ -1,11 +1,11 @@
 ---
 title: Němoty
-contentType: prose
+contentType: poetry
 ---
 
 <section>
 
-_Já vím,  
+Já vím,  
 že se ti nechce mluvit.  
 Koneckonců,  
 nikdo nic neříká.  
@@ -14,51 +14,51 @@ dlouhého mlčení:
 kobyla, býk a babyka,  
 třesení osik a syčení  
 jazýčků hadích, háďat —  
-a vztek._
+a vztek.
 
 </section>
 
 <section>
 
-_Takže jen ze sebe dávím  
+Takže jen ze sebe dávím  
 ticho jak z mušlí a ulit  
-zapomenutých hromsů._
+zapomenutých hromsů.
 
 </section>
 
 <section>
 
-_Vždyť sprostě může znít —  
+Vždyť sprostě může znít —  
 řeřicha —  
 a smutně — tólie.  
 Svit přímý. I had je svit.  
 A koneckonců,  
 nikdo nic přece neříká,  
-a proč se tedy hádat?_
+a proč se tedy hádat?
 
 </section>
 
 <section>
 
-_Vždyť i těch nenarozených slov,  
+Vždyť i těch nenarozených slov,  
 co nedají se nijak vyslovit,  
 ani gesty bez uťatých rukou,  
-a bloudí s mukou_
+a bloudí s mukou
 
 </section>
 
 <section>
 
-_po ševelících rtech,  
+po ševelících rtech,  
 je víc než mrtvými muži  
 opuštěných vdov,  
-zakletých v zdech._
+zakletých v zdech.
 
 </section>
 
 <section>
 
-_Ach, tolik jich, tolik, tolik je,  
-jak navždy opadaných růží._
+Ach, tolik jich, tolik, tolik je,  
+jak navždy opadaných růží.
 
 </section>

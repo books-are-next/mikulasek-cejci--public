@@ -1,65 +1,65 @@
 ---
 title: Dopis první ženě
-contentType: prose
+contentType: poetry
 ---
 
 <section>
 
-_Z nás každý ví,  
+Z nás každý ví,  
 jak málo nám zbývá nocí  
 a ještě méně dní,  
 než všechno skončí,  
 jak dřevo staré truhly  
-červotoči._
+červotoči.
 
 </section>
 
 <section>
 
-_Nač tedy vítr  
+Nač tedy vítr  
 lomcuje stromovím?  
 A nač ten šepot hrobový,  
 když strom každým  
 spadlým listem platí  
 za to, že se náhle  
 strašně rozední —  
-od větví po kmen ztuhlý?_
+od větví po kmen ztuhlý?
 
 </section>
 
 <section>
 
-_Pak utichne vítr.  
+Pak utichne vítr.  
 Utichne i náš dech.  
 A my si budem navždy náležet,  
 jak jeden druhým  
-popravení kati._
+popravení kati.
 
 </section>
 
 <section>
 
-_A to je nekonečnost  
+A to je nekonečnost  
 ukončené lásky.  
 A to je začátek  
 snu, který se zaspí  
-a nikdy nevzbudí._
+a nikdy nevzbudí.
 
 </section>
 
 <section>
 
-_Nač tedy výčitky?  
+Nač tedy výčitky?  
 Nač vzteky? Kvílení — nač pláč?  
 Nač hrůzy zoufalství?  
 Nač marně umírat?  
-A žíti marně — nač?_
+A žíti marně — nač?
 
 </section>
 
 <section>
 
-_Mne neptej se!  
+Mne neptej se!  
 Boha se ptej!  
 Ale ten nemluví.  
 A verše nepíše —  
@@ -71,35 +71,35 @@ nad lásku
 že toužení je hladné  
 a žena nikdy nepožádaná.  
 A že součet ztrát  
-je nakonec náš dluh…“_
+je nakonec náš dluh…“
 
 </section>
 
 <section>
 
-_Bůh verše nepíše.  
+Bůh verše nepíše.  
 Verš v básni pevně tkví —  
 a báseň nejspíše  
 je vždycky nějak ukřižovaná  
 jak každé zjevení —.  
-I láska._
+I láska.
 
 </section>
 
 <section>
 
-_Je pozdě._
+Je pozdě.
 
 </section>
 
 <section>
 
-_Sbohem._
+Sbohem.
 
 </section>
 
 <section>
 
-_I lampě chce se spát._
+I lampě chce se spát.
 
 </section>

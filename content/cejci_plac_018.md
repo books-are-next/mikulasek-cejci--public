@@ -1,11 +1,11 @@
 ---
 title: Vyzvánění
-contentType: prose
+contentType: poetry
 ---
 
 <section>
 
-_Jestliže najednou potkám  
+Jestliže najednou potkám  
 tolik lidí,  
 (a vždycky nejvýš dva),  
 kteří se zbláznili  
@@ -15,13 +15,13 @@ a začnou se ústy k ústům shýbat
 jako o svatbách —  
 a ty zvony znovu zazní-li,  
 mám zůstat celý pryč,  
-nebo se krást domů?_
+nebo se krást domů?
 
 </section>
 
 <section>
 
-_Možná je čas  
+Možná je čas  
 kobylek a hříbat;  
 mečů, mečíků a mačet.  
 A žíznivců, co slídí,  
@@ -32,27 +32,27 @@ ne nepodobni loutkám.
 Jdou a jdou  
 a nevidí se kráčet  
 tam, kde teď vítr  
-list po listu líbá._
+list po listu líbá.
 
 </section>
 
 <section>
 
-_Jestli se najednou potkám  
+Jestli se najednou potkám  
 s těmi, co mají klíč  
 k hrobkám  
 láskou dosud nepochovaných,  
-mám umřít, nebo mlčet?_
+mám umřít, nebo mlčet?
 
 </section>
 
 <section>
 
-_Možná je čas  
+Možná je čas  
 nemání a mání.  
 Čas, kdy nad hladinu  
 šeptne ryba;  
 čas všeho čistého  
-a na klekání._
+a na klekání.
 
 </section>

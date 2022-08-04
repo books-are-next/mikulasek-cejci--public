@@ -1,39 +1,39 @@
 ---
 title: Ptáčkové
-contentType: prose
+contentType: poetry
 ---
 
 <section>
 
-_Kolikže je to let,  
+Kolikže je to let,  
 co jsem se díval,  
 jak sedal na okolík  
-stehlík či čížek maličký?_
+stehlík či čížek maličký?
 
 </section>
 
 <section>
 
-_Čižbaři chytali je na lep.  
+Čižbaři chytali je na lep.  
 Do klícek. Do mříží.  
 A oni zpívali.  
 I já si zazpíval.  
-Kolikže je to let?_
+Kolikže je to let?
 
 </section>
 
 <section>
 
-_Do nových klecí nahlížím  
+Do nových klecí nahlížím  
 na ty, ach, na ty,  
-na andělíčky._
+na andělíčky.
 
 </section>
 
 <section>
 
-_Plachetky dejte jim  
+Plachetky dejte jim  
 přes noc na klícky —  
-ať zpívají i dál._
+ať zpívají i dál.
 
 </section>

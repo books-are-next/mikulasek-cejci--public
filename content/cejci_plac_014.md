@@ -1,32 +1,32 @@
 ---
 title: Drchnička
-contentType: prose
+contentType: poetry
 ---
 
 <section>
 
 > _(Boženě)_
 
-_Krčíš se, drobounká,  
+Krčíš se, drobounká,  
 v strništi,  
 drchničko rolní.  
 Pozdní, i jako od loňska,  
 lásko, ty pro přespolní,  
 pro příští,  
 co dosud v lůnech spí —  
-tiše rozžatá._
+tiše rozžatá.
 
 </section>
 
 <section>
 
-_Je tě tak málo.  
+Je tě tak málo.  
 Úroda tě snědla,  
 sama požatá.  
 Kolik pšenice  
 a kolik žita padlo —  
 a přece, co zbylo  
 ze štíhlého stébla,  
-tě střeží pod kopím._
+tě střeží pod kopím.
 
 </section>

@@ -1,31 +1,31 @@
 ---
 title: Pouta
-contentType: prose
+contentType: poetry
 ---
 
 <section>
 
-_Když si mě ukrýváš  
+Když si mě ukrýváš  
 za mřížovím svých řas,  
 tak křehkým —  
-proč myslím na žalář?_
+proč myslím na žalář?
 
 </section>
 
 <section>
 
-_Otevřeš oči  
+Otevřeš oči  
 a pod křídly, pod obočím  
 oslepí mne zář —.  
 Nikdy už neodletím.  
 Jen lehnu popelem  
-a ty budeš můj žhář._
+a ty budeš můj žhář.
 
 </section>
 
 <section>
 
-_Budeme náhle sami na světě  
+Budeme náhle sami na světě  
 a třeskutě skučet  
 nalezenými těly.  
 Dušemi zadušeni;  
@@ -34,22 +34,22 @@ nevyslovených slov;
 samohlásky se souhláskami;  
 slovíčky ve větě  
 spiklí  
-do strofy katastrof._
+do strofy katastrof.
 
 </section>
 
 <section>
 
-_Jako bychom se nikdy neměli —  
+Jako bychom se nikdy neměli —  
 i měli.  
-Lístečky. A mezi nimi krůček_
+Lístečky. A mezi nimi krůček
 
 </section>
 
 <section>
 
-_čehosi nechodícího  
+čehosi nechodícího  
 a co ani nechce odletět,  
-spoutáno vlastními křídly._
+spoutáno vlastními křídly.
 
 </section>

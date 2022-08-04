@@ -1,36 +1,36 @@
 ---
 title: Gambie
-contentType: prose
+contentType: poetry
 ---
 
 <section>
 
 > _(Jiřímu Krškovi)_
 
-_To bylo v Gambii.  
+To bylo v Gambii.  
 Podivné to zemi.  
 Mluvili tam němí.  
 Slepí ukazovali  
 bílou holí do tmy  
-vidoucím._
+vidoucím.
 
 </section>
 
 <section>
 
-_A že bude zabit  
+A že bude zabit  
 ten, kdo zabíjí.  
 Bosí se zouvali —.  
 Potopené lodi  
 vyzdvíhaly kotvy.  
 Rabovali rabi —  
-do noci._
+do noci.
 
 </section>
 
 <section>
 
-_Kdo se v krvi brodí,  
+Kdo se v krvi brodí,  
 prý v ní utone.  
 A že bude zabit  
 ten, kdo zabíjí.  
@@ -38,15 +38,15 @@ To bylo v té zemi,
 zvané Gambie.  
 A strom říkal listí,  
 radši to už sbal!  
-(Mluvili tam němí.)_
+(Mluvili tam němí.)
 
 </section>
 
 <section>
 
-_Tenkrát byl jsem rostlin  
+Tenkrát byl jsem rostlin  
 tichý úponek.  
 Ale už i tenkrát  
-chvěl jsem se a bál._
+chvěl jsem se a bál.
 
 </section>

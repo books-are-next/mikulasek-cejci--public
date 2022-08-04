@@ -1,31 +1,31 @@
 ---
 title: Mansardy
-contentType: prose
+contentType: poetry
 ---
 
 <section>
 
 > _(Miroslavu Šimordovi)_
 
-_Viděli jste už někdy  
+Viděli jste už někdy  
 sesouvat se dům?  
 Nejprve praskají okna,  
 aby oslepl tříštícím se sklem  
 a neuzřel svou zkázu,  
 potom vše zahalí  
-prach pohřbívaných zdiv._
+prach pohřbívaných zdiv.
 
 </section>
 
 <section>
 
-_To dům vypouští duši._
+To dům vypouští duši.
 
 </section>
 
 <section>
 
-_Když my se hroutíme  
+Když my se hroutíme  
 jakoby do sebe,  
 voláme — ještě rum  
 a líh —  
@@ -35,27 +35,27 @@ v ten jazykový div,
 rumiště vychutnaných lahví  
 i do dna vypitých,  
 jichž každý střep však v slunci  
-ještě doutná._
+ještě doutná.
 
 </section>
 
 <section>
 
-_I nám oslepla okna  
+I nám oslepla okna  
 v tom světě naprasklém —  
-a dým jakýsi nás dusí._
+a dým jakýsi nás dusí.
 
 </section>
 
 <section>
 
-_A z prázdných, obnažených mansard  
+A z prázdných, obnažených mansard  
 v patrech nejvyšších,  
 už beze střech a stropů  
 — s pouhým nebem —  
 květiny, tváře, přeludné malby krajin  
 řítí se střemhlav a přímo do kopřiv,  
 které mráz nespálí —  
-a jen my shoříme v nich._
+a jen my shoříme v nich.
 
 </section>

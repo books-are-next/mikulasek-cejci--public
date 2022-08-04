@@ -1,20 +1,20 @@
 ---
 title: Tam
-contentType: prose
+contentType: poetry
 ---
 
 <section>
 
-_Maminka dávno umřela,  
+Maminka dávno umřela,  
 tak jsem se jí zeptal,  
 maminky,  
-jaké to tam vlastně je._
+jaké to tam vlastně je.
 
 </section>
 
 <section>
 
-_Podívala se vyčítavě,  
+Podívala se vyčítavě,  
 ale ne zas moc  
 a spíš na neschnoucí nádobí  
 než na mne,  
@@ -25,13 +25,13 @@ a jaksi pomalinku,
 stírajíc si cosi pradávného s čela,  
 a lžičku po lžičce  
 ukládajíc do kredence,  
-šeptla — a co já vím, synku._
+šeptla — a co já vím, synku.
 
 </section>
 
 <section>
 
-_A nadlouho se potom odmlčela.  
+A nadlouho se potom odmlčela.  
 Tak nějak bez řeči,  
 jak bez dětí a tence  
 s oním pokrčením ramen  
@@ -40,15 +40,15 @@ jako když silou lví
 jsou unaveni lvi —  
 a nic, nic nechtít  
 se jim jenom chce  
-v těch dlouhých mrákotách._
+v těch dlouhých mrákotách.
 
 </section>
 
 <section>
 
-_Zatím jí oschla  
+Zatím jí oschla  
 slza na tváři —  
 i nádobí  
-a prudce zavonělo ovoce._
+a prudce zavonělo ovoce.
 
 </section>

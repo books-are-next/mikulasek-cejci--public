@@ -1,34 +1,34 @@
 ---
 title: My sovy
-contentType: prose
+contentType: poetry
 ---
 
 <section>
 
-_Hojíme své bezprizorné ticho  
+Hojíme své bezprizorné ticho  
 marnými jen slovy  
 A jsou to za dne slepé,  
 mžourající sovy,  
-hovějící si na vejcích._
+hovějící si na vejcích.
 
 </section>
 
 <section>
 
-_V noci ale  
+V noci ale  
 klubají se z nich  
 sametově lítí  
 vražedníci s potměchutí,  
-a mají je, ach, za nekalé._
+a mají je, ach, za nekalé.
 
 </section>
 
 <section>
 
-_Moje srdce pro ně tepe,  
+Moje srdce pro ně tepe,  
 že mřou se schoulenou pýchou  
 býti bytím svého bytí —  
 na hrom krutý,  
-na nejtišší slovobití._
+na nejtišší slovobití.
 
 </section>

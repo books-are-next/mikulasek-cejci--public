@@ -1,35 +1,35 @@
 ---
 title: Jdu se dvěma verši
-contentType: prose
+contentType: poetry
 ---
 
 <section>
 
-_večer na procházku.  
+večer na procházku.  
 První říká: věř ve mě —  
-i věř si!_
+i věř si!
 
 </section>
 
 <section>
 
-_A druhý?  
+A druhý?  
 Nevěř na nás,  
-nevěř na tu chásku._
+nevěř na tu chásku.
 
 </section>
 
 <section>
 
-_Já zatím vidím řeku,  
+Já zatím vidím řeku,  
 v ní vrby, stromy, luhy  
-téci kams odněkud._
+téci kams odněkud.
 
 </section>
 
 <section>
 
-_Jdu se dvěma verši;  
+Jdu se dvěma verši;  
 ten první je širší,  
 druhý zase užší.  
 Na ten první  
@@ -37,42 +37,42 @@ jaksi více prší,
 druhému je sucho.  
 Tak je i mé duši,  
 že chce uslyšet se —  
-i být k sobě hluchou._
+i být k sobě hluchou.
 
 </section>
 
 <section>
 
-_Jdu se dvěma verši.  
+Jdu se dvěma verši.  
 Jsou tak tiše spolu;  
 a ještě víc tiše,  
-když je každý sám._
+když je každý sám.
 
 </section>
 
 <section>
 
-_Nežli život, někdy  
+Nežli život, někdy  
 okamžik je delší,  
 těly ustískán  
 do rostlinného stvolu,  
 jímž je možná hrdlo —  
 a v tom hrdle vzlyk  
-na ostrou kost zmrzá._
+na ostrou kost zmrzá.
 
 </section>
 
 <section>
 
-_Já se potom ptám,  
+Já se potom ptám,  
 jak dlouho v pláči jí se  
 neuroněná slza,  
-kterou polykám?_
+kterou polykám?
 
 </section>
 
 <section>
 
-_Však verše není slyšet._
+Však verše není slyšet.
 
 </section>

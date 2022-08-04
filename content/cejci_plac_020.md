@@ -1,34 +1,34 @@
 ---
 title: Pití
-contentType: prose
+contentType: poetry
 ---
 
 <section>
 
-_Sepnu ruce  
+Sepnu ruce  
 kolem číše nad červeným,  
 aby nebylo tak chladné,  
-jak je chladné tvoje srdce._
+jak je chladné tvoje srdce.
 
 </section>
 
 <section>
 
-_Možná roztaje ten pohár  
+Možná roztaje ten pohár  
 tenký  
 čímsi sladce podvečerním,  
 co spí na dně  
-každé vinné sklenky._
+každé vinné sklenky.
 
 </section>
 
 <section>
 
-_Ale jejich cinkot  
+Ale jejich cinkot  
 proto neutichá  
 po hospůdkách  
 ani po putykách,  
 i když minci  
-poslední jsi prohrál._
+poslední jsi prohrál.
 
 </section>

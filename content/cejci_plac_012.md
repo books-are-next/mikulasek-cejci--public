@@ -1,6 +1,6 @@
 ---
 title: PLAVUNĚ
-contentType: prose
+contentType: poetry
 ---
 
 

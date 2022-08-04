@@ -1,6 +1,6 @@
 ---
 title: HRY
-contentType: prose
+contentType: poetry
 ---
 
 

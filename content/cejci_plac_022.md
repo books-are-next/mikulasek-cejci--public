@@ -1,39 +1,39 @@
 ---
 title: Pokusy I
-contentType: prose
+contentType: poetry
 ---
 
 <section>
 
-_Když za noci tiché  
+Když za noci tiché  
 opustí tě řeč  
 a ty ji necháš mluvit nemluvnou,  
 báseň je němá —  
-konečně!_
+konečně!
 
 </section>
 
 <section>
 
-_A ty se neostýchej!  
+A ty se neostýchej!  
 Každičké slovo  
-je na tvou duši leč._
+je na tvou duši leč.
 
 </section>
 
 <section>
 
-_Buď vodou,  
+Buď vodou,  
 která jen z dešťů skane!  
 Buď vzduchem,  
 který se k vzduchu nemá —  
-a požat — koncem žně!_
+a požat — koncem žně!
 
 </section>
 
 <section>
 
-_Nevýslovnými stony někde stonou  
-stonky, ach, stonky nedostončené._
+Nevýslovnými stony někde stonou  
+stonky, ach, stonky nedostončené.
 
 </section>

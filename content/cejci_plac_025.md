@@ -1,37 +1,37 @@
 ---
 title: 'Prodavačka květin '
-contentType: prose
+contentType: poetry
 ---
 
 <section>
 
-_aneb marnotratná montmartranka_
+**aneb marnotratná montmartranka**
 
-_Já vím, jak je to marné  
+Já vím, jak je to marné  
 darovat kvítí květině,  
 jak se má růže růži podobat,  
-jediná láska — té jediné._
+jediná láska — té jediné.
 
 </section>
 
 <section>
 
-_A jak má růže vonět pro oba,  
+A jak má růže vonět pro oba,  
 když oba si vínem voní?  
 Je upité víno opilé?  
-Či ona z něho — a on z ní?_
+Či ona z něho — a on z ní?
 
 </section>
 
 <section>
 
-_Ať snese vám raděj  
+Ať snese vám raděj  
 z nebe lunu,  
 je za mraky — a není —  
 požata tajně šavlí měsíce,  
 a toulejte se nocí  
 celí olůnění,  
 dokud se vínu zpitému  
-ještě i vašich úst ochutnati chce._
+ještě i vašich úst ochutnati chce.
 
 </section>

@@ -1,57 +1,57 @@
 ---
 title: Divy
-contentType: prose
+contentType: poetry
 ---
 
 <section>
 
-_Tvoje oči — hlubočina,  
+Tvoje oči — hlubočina,  
 aby v ní navždy  
 luna utonula —  
-a nepohnula hořem._
+a nepohnula hořem.
 
 </section>
 
 <section>
 
-_Utichl vítr  
+Utichl vítr  
 zmořen —  
-a zbláznil._
+a zbláznil.
 
 </section>
 
 <section>
 
-_Tvoje ústa —  
+Tvoje ústa —  
 jazyk brzy nazývati  
-samomluvou duše._
+samomluvou duše.
 
 </section>
 
 <section>
 
-_Slyším vlas tvůj váti.  
+Slyším vlas tvůj váti.  
 A když noc je pustá,  
 odhaluje šíji,  
 že bůh temnot vzrušen  
 prohlédne a šílí  
 bezhlavý, neb sťatý —  
-on meč — onou šíjí._
+on meč — onou šíjí.
 
 </section>
 
 <section>
 
-_Slyším slzu štkáti,  
-že jí ublížili._
+Slyším slzu štkáti,  
+že jí ublížili.
 
 </section>
 
 <section>
 
-_Vidím dívati se  
+Vidím dívati se  
 tebe na muškáty  
 a muškáty cudně  
-pak se červenati._
+pak se červenati.
 
 </section>

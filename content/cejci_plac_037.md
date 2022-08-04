@@ -1,6 +1,6 @@
 ---
 title: ČEJČÍ PLÁČ
-contentType: prose
+contentType: poetry
 ---
 
 

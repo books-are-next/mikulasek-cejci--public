@@ -8,8 +8,8 @@
   "edition": "poezie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "mikulasek-cejci-plac-a39c1ed",
-  "revision": "a39c1ed",
+  "identifier": "mikulasek-cejci-plac-bda420e",
+  "revision": "bda420e",
   "readingOrder": [
     "promo.html",
     "cejci_plac_005.html",
@@ -61,8 +61,8 @@
     "about.html"
   ],
   "generatedAt": {
-    "date": "Tue Oct 04 2022 22:59:33 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1664924373268
+    "date": "Fri Oct 07 2022 13:52:22 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1665150742302
   },
   "documents": [
     {

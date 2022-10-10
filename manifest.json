@@ -8,8 +8,8 @@
   "edition": "poezie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "mikulasek-cejci-plac-bda420e",
-  "revision": "bda420e",
+  "identifier": "mikulasek-cejci-plac-4ed8fad",
+  "revision": "4ed8fad",
   "readingOrder": [
     "promo.html",
     "cejci_plac_005.html",
@@ -61,8 +61,8 @@
     "about.html"
   ],
   "generatedAt": {
-    "date": "Fri Oct 07 2022 13:52:22 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1665150742302
+    "date": "Mon Oct 10 2022 15:43:58 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1665416638919
   },
   "documents": [
     {
@@ -1001,7 +1001,7 @@
       "title": "Tiráž",
       "file": "about.html",
       "words": 132,
-      "chars": 880,
+      "chars": 881,
       "ideas": 13,
       "role": "about",
       "order": null,
@@ -1021,7 +1021,7 @@
   "totals": {
     "all": {
       "words": 4812,
-      "chars": 25280,
+      "chars": 25281,
       "ideas": 1246
     },
     "chapters": {

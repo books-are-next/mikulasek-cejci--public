@@ -13,6 +13,7 @@ meta:
   contentType: poetry
   edition: poezie
   publisherShort: mkp
+  isbn: 978-80-274-2791-8
 readingOrder:
   - promo.html
   - cejci_plac_005.html

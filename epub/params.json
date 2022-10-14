@@ -9,7 +9,8 @@
       "modified": "2020-11-03T00:00:00.000Z",
       "contentType": "poetry",
       "edition": "poezie",
-      "publisherShort": "mkp"
+      "publisherShort": "mkp",
+      "isbn": "978-80-274-2791-8"
     },
     "elements": {
       "title": "MLP.uroven1.*\nMLP.uroven2.kapitola\nMLP.uroven2.basne\nMLP.uroven2.kapitola.dopis\nMLP.uroven2.kapitola.upraven\ne.booknadpis2\ne.booknadpis2bezodstrnkovn\ne.booknadpis2probasne\ne.bookobsah\nheading.id.2\nmlpuroven1.*\nmlpuroven2.*\nMLP.UROVEN2.BASNE.II\nMLP.UROVEN2.KAPITOLA\nMLP.UROVEN2.PARAL\nMLP.uroven1.PARAL",
@@ -96,6 +97,7 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
+            "title": "BÁSNĚ JEDNÉ NOCI",
             "children": [
               {
                 "filename": "cejci_plac_006.md",
@@ -107,8 +109,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "Osika"
+                "title": "Osika",
+                "children": []
               },
               {
                 "filename": "cejci_plac_007.md",
@@ -120,8 +122,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "Ptáčkové"
+                "title": "Ptáčkové",
+                "children": []
               },
               {
                 "filename": "cejci_plac_008.md",
@@ -133,8 +135,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "My sovy"
+                "title": "My sovy",
+                "children": []
               },
               {
                 "filename": "cejci_plac_009.md",
@@ -146,8 +148,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "Naše Indie"
+                "title": "Naše Indie",
+                "children": []
               },
               {
                 "filename": "cejci_plac_010.md",
@@ -159,8 +161,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "Ručičky"
+                "title": "Ručičky",
+                "children": []
               },
               {
                 "filename": "cejci_plac_011.md",
@@ -172,11 +174,10 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "Anělina"
+                "title": "Anělina",
+                "children": []
               }
-            ],
-            "title": "BÁSNĚ JEDNÉ NOCI"
+            ]
           },
           {
             "filename": "cejci_plac_012.md",
@@ -188,6 +189,7 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
+            "title": "PLAVUNĚ",
             "children": [
               {
                 "filename": "cejci_plac_013.md",
@@ -199,8 +201,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "Plavuně"
+                "title": "Plavuně",
+                "children": []
               },
               {
                 "filename": "cejci_plac_014.md",
@@ -212,8 +214,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "Drchnička"
+                "title": "Drchnička",
+                "children": []
               },
               {
                 "filename": "cejci_plac_015.md",
@@ -225,8 +227,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "Kartouzek"
+                "title": "Kartouzek",
+                "children": []
               },
               {
                 "filename": "cejci_plac_016.md",
@@ -238,11 +240,10 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "Pampeliška"
+                "title": "Pampeliška",
+                "children": []
               }
-            ],
-            "title": "PLAVUNĚ"
+            ]
           },
           {
             "filename": "cejci_plac_017.md",
@@ -254,6 +255,7 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
+            "title": "HRY",
             "children": [
               {
                 "filename": "cejci_plac_018.md",
@@ -265,8 +267,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "Vyzvánění"
+                "title": "Vyzvánění",
+                "children": []
               },
               {
                 "filename": "cejci_plac_019.md",
@@ -278,8 +280,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "Verše psané na účtenku"
+                "title": "Verše psané na účtenku",
+                "children": []
               },
               {
                 "filename": "cejci_plac_020.md",
@@ -291,8 +293,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "Pití"
+                "title": "Pití",
+                "children": []
               },
               {
                 "filename": "cejci_plac_021.md",
@@ -304,8 +306,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "Divy"
+                "title": "Divy",
+                "children": []
               },
               {
                 "filename": "cejci_plac_022.md",
@@ -317,8 +319,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "Pokusy I"
+                "title": "Pokusy I",
+                "children": []
               },
               {
                 "filename": "cejci_plac_023.md",
@@ -330,8 +332,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "Pokusy II"
+                "title": "Pokusy II",
+                "children": []
               },
               {
                 "filename": "cejci_plac_024.md",
@@ -343,8 +345,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "Pokusy III"
+                "title": "Pokusy III",
+                "children": []
               },
               {
                 "filename": "cejci_plac_025.md",
@@ -356,8 +358,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "Prodavačka květin "
+                "title": "Prodavačka květin ",
+                "children": []
               },
               {
                 "filename": "cejci_plac_026.md",
@@ -369,8 +371,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "Němoty"
+                "title": "Němoty",
+                "children": []
               },
               {
                 "filename": "cejci_plac_027.md",
@@ -382,8 +384,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "Vlčina"
+                "title": "Vlčina",
+                "children": []
               },
               {
                 "filename": "cejci_plac_028.md",
@@ -395,11 +397,10 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "Jdu se dvěma verši"
+                "title": "Jdu se dvěma verši",
+                "children": []
               }
-            ],
-            "title": "HRY"
+            ]
           },
           {
             "filename": "cejci_plac_029.md",
@@ -411,6 +412,7 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
+            "title": "BÍLÉ NEŠTOVICE",
             "children": [
               {
                 "filename": "cejci_plac_030.md",
@@ -422,8 +424,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "Dopis první ženě"
+                "title": "Dopis první ženě",
+                "children": []
               },
               {
                 "filename": "cejci_plac_031.md",
@@ -435,8 +437,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "Dopis druhé ženě"
+                "title": "Dopis druhé ženě",
+                "children": []
               },
               {
                 "filename": "cejci_plac_032.md",
@@ -448,8 +450,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "Dopis Múze"
+                "title": "Dopis Múze",
+                "children": []
               },
               {
                 "filename": "cejci_plac_033.md",
@@ -461,8 +463,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "Kruté něhy"
+                "title": "Kruté něhy",
+                "children": []
               },
               {
                 "filename": "cejci_plac_034.md",
@@ -474,8 +476,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "La femme fatal"
+                "title": "La femme fatal",
+                "children": []
               },
               {
                 "filename": "cejci_plac_035.md",
@@ -487,8 +489,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "Bílé neštovice"
+                "title": "Bílé neštovice",
+                "children": []
               },
               {
                 "filename": "cejci_plac_036.md",
@@ -500,11 +502,10 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "Pouta"
+                "title": "Pouta",
+                "children": []
               }
-            ],
-            "title": "BÍLÉ NEŠTOVICE"
+            ]
           },
           {
             "filename": "cejci_plac_037.md",
@@ -516,6 +517,7 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
+            "title": "ČEJČÍ PLÁČ",
             "children": [
               {
                 "filename": "cejci_plac_038.md",
@@ -527,8 +529,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "Čejčí pláč"
+                "title": "Čejčí pláč",
+                "children": []
               },
               {
                 "filename": "cejci_plac_039.md",
@@ -540,8 +542,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "Eloáh"
+                "title": "Eloáh",
+                "children": []
               },
               {
                 "filename": "cejci_plac_040.md",
@@ -553,8 +555,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "Panu Gauguinovi"
+                "title": "Panu Gauguinovi",
+                "children": []
               },
               {
                 "filename": "cejci_plac_041.md",
@@ -566,8 +568,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "Sonet a dva verše navíc pro Oldřicha Vyhlídala"
+                "title": "Sonet a dva verše navíc pro Oldřicha Vyhlídala",
+                "children": []
               },
               {
                 "filename": "cejci_plac_042.md",
@@ -579,8 +581,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "Dávný obraz"
+                "title": "Dávný obraz",
+                "children": []
               },
               {
                 "filename": "cejci_plac_043.md",
@@ -592,8 +594,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "Mansardy"
+                "title": "Mansardy",
+                "children": []
               },
               {
                 "filename": "cejci_plac_044.md",
@@ -605,8 +607,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "Gambie"
+                "title": "Gambie",
+                "children": []
               },
               {
                 "filename": "cejci_plac_045.md",
@@ -618,8 +620,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "Osud"
+                "title": "Osud",
+                "children": []
               },
               {
                 "filename": "cejci_plac_046.md",
@@ -631,8 +633,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "Noční ptáci"
+                "title": "Noční ptáci",
+                "children": []
               },
               {
                 "filename": "cejci_plac_047.md",
@@ -644,8 +646,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "Bez názvu"
+                "title": "Bez názvu",
+                "children": []
               },
               {
                 "filename": "cejci_plac_048.md",
@@ -657,8 +659,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "Poezie"
+                "title": "Poezie",
+                "children": []
               },
               {
                 "filename": "cejci_plac_049.md",
@@ -670,8 +672,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "Tam"
+                "title": "Tam",
+                "children": []
               },
               {
                 "filename": "cejci_plac_050.md",
@@ -683,11 +685,10 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "Mé dvanáctero"
+                "title": "Mé dvanáctero",
+                "children": []
               }
-            ],
-            "title": "ČEJČÍ PLÁČ"
+            ]
           },
           {
             "filename": "cejci_plac_051.md",
@@ -1084,6 +1085,6 @@
       "user": "books-are-next",
       "repo": "mikulasek-cejci-plac"
     },
-    "generatedAt": 1658413459370
+    "generatedAt": 1665415642110
   }
 }
